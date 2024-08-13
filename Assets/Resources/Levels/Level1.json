@@ -1,0 +1,109 @@
+{
+    "moveLimit": 5,
+    "rows": 5,
+    "columns": 5,
+    "contents": [
+        {
+            "type": 1,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 1
+            },
+            "colorValue": 2
+        },
+        {
+            "type": 1,
+            "position": {
+                "x": 0,
+                "y": 1,
+                "z": 1
+            },
+            "colorValue": 2
+        },
+        {
+            "type": 1,
+            "position": {
+                "x": 0,
+                "y": 2,
+                "z": 1
+            },
+            "colorValue": 2
+        },
+        {
+            "type": 0,
+            "position": {
+                "x": 0,
+                "y": 3,
+                "z": 1
+            },
+            "colorValue": 2,
+            "direction": 0
+        },
+        {
+            "type": 0,
+            "position": {
+                "x": 0,
+                "y": 2,
+                "z": 2
+            },
+            "colorValue": 3,
+            "direction": 1
+        },
+        {
+            "type": 1,
+            "position": {
+                "x": 1,
+                "y": 2,
+                "z": 1
+            },
+            "colorValue": 3
+        },
+        {
+            "type": 1,
+            "position": {
+                "x": 2,
+                "y": 2,
+                "z": 1
+            },
+            "colorValue": 3
+        },
+        {
+            "type": 1,
+            "position": {
+                "x": 3,
+                "y": 2,
+                "z": 2
+            },
+            "colorValue": 3
+        },
+        {
+            "type": 1,
+            "position": {
+                "x": 3,
+                "y": 1,
+                "z": 1
+            },
+            "colorValue": 4
+        },
+        {
+            "type": 1,
+            "position": {
+                "x": 3,
+                "y": 2,
+                "z": 1
+            },
+            "colorValue": 4
+        },
+        {
+            "type": 0,
+            "position": {
+                "x": 3,
+                "y": 3,
+                "z": 1
+            },
+            "colorValue": 4,
+            "direction": 0
+        }
+    ]
+}
